@@ -50,6 +50,11 @@ The toolkit includes functions for:
    pip install fastmcp httpx urllib3
    ```
 
+5. **Install the MCP server**:
+   ```bash
+   fastmcp install claude_modeling_labs.py --name "Claude Modeling Labs"
+   ```
+
 ### Installation on Windows
 
 1. **Install Python (if not already installed)**:
@@ -71,6 +76,11 @@ The toolkit includes functions for:
 4. **Install dependencies**:
    ```cmd
    pip install fastmcp httpx urllib3
+   ```
+
+5. **Install the MCP server**:
+   ```cmd
+   fastmcp install claude_modeling_labs.py --name "Claude Modeling Labs"
    ```
 
 ## How It Works
